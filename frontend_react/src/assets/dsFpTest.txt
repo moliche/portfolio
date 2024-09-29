@@ -1,0 +1,151 @@
+test.txt 50
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>1
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>7
+0|NULL
+1|Avengers: Endgame-->Pair Jars-suck-->Jurassic -Park-->Jura-ssic Park-->NULL
+2|aladin-->NULL
+3|roam inn-->iron man-->NULL
+4|NULL
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>2
+Moviename: Iron-man
+Username: moliche
+Comment: Buena movie
+Time: 2122
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>2
+Moviename: Iron-man
+Username: Rod
+Comment: Good movie!
+Time: 2123
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>5
+movie name:Iron-man
+Movie: Iron-man
+	User: Rod
+	Comment: Good movie!
+	Time: 2123
+	=====
+	User: moliche
+	Comment: Buena movie
+	Time: 2122
+	=====
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>3
+movie name:Iron-man
+retrieved result
+Movie: Iron-man
+User:Rod
+Comment:Good movie!
+Time:2123
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>2
+Moviename: Interstellar
+Username: molish
+Comment: :o
+Time: 2126
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>6
+Number of collision:5
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>7
+0|NULL
+1|Avengers: Endgame-->Pair Jars-suck-->Jurassic -Park-->Jura-ssic Park-->NULL
+2|aladin-->NULL
+3|Interstellar-->roam inn-->iron man-->NULL
+4|Iron-man-->NULL
+------------------
+1: Build the datastructure (call it only once)
+2: Add a movie review tweet
+3: Retrieve most recent review for a movie
+4: Pop most recent review for a movie
+5: Print reviews for a movie
+6: Get number of collision
+7: Print the table
+8: Exit
+------------------
+Give your choice >>8
+Bye, bye
